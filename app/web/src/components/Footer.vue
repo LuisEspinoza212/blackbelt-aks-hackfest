@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Global Blackbelt Team
+        This is a change for Brigade test
       </div>
       <div class="col-lg-6">
       </div>
